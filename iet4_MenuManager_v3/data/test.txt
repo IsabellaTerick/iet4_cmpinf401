@@ -1,0 +1,14 @@
+Bits n Bytes
+Entree: Curry Chicken. Curry marinated chicken, cooked slowly in wood fire oven. Calories: 430. Price: $11.5
+Side: Quinoa. Quinoa. Calories: 140. Price: $4.7
+Salad: Mixed Vegetables. Includes small tomatoes, lettuce, cucumber, spinach and arugula. Calories: 90. Price: $7.0
+Dessert: Chocolate Cake. Low calorie chocolate cake. Calories: 175. Price: $7.0
+Total Calories: 835
+
+Diner 2
+Entree: Sirloin Steak. A delicious piece of 1/2 a pound of our carefully selected meat grilled and seasoned. Choose how much you want it cooked. Calories: 820. Price: $22.5
+Side: Grilled Potatoes. Boiled potatoes grilled in oven with a touch of butter. Calories: 270. Price: $5.0
+Salad: Potato Salad. Potato Salad. Calories: 195. Price: $4.0
+Dessert: Ice Cream. Choose among vanilla, mango, pineapple, chocolate and orange ice cream. Calories: 250. Price: $3.2
+Total Calories: 1535
+
